@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img width="250" src="https://i.imgur.com/rtINRtG.png?" >
+  <img width="250" src="https://i.imgur.com/1dSzk4m.png?" >
   <br>
   <br>
 </p>
@@ -48,4 +48,4 @@ to be announced
 
 
 ------
-###### This is not official Parallel hub / created by rskl#1210 and [Synclab.team] (https://synclab.team/) / im not a part of Parallel team
+###### This is not official Parallel hub / created by rskl#1210 and https://synclab.team / im not a part of Parallel team
