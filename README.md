@@ -1,8 +1,8 @@
-# Awesome  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Parallel [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
   <br>
-  <img width="250" src="https://i.imgur.com/1dSzk4m.png?" >
+  <img width="400" src="https://i.imgur.com/1dSzk4m.png?" >
   <br>
   <br>
 </p>
