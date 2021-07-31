@@ -34,11 +34,12 @@
 ### Regional Parallel Telegram Channels
 
 - [Russian Telegram channel](https://t.me/Parallel_RU)
+- more soon...
 
 
 ### Regional Parallel Twitters
 
-to be announced
+- to be announced
 
 ## Another additional links
 
