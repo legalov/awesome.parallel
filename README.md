@@ -1,4 +1,4 @@
-# Awesome Parallel [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+#[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
   <br>
@@ -48,4 +48,4 @@ to be announced
 
 
 ------
-###### This is not official Parallel hub / created by rskl#1210 and https://synclab.team / im not a part of Parallel team
+###### This is not official Parallel hub / created by rskl#1210 (member of Synclab.team) / im not a part of Parallel team
