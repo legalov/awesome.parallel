@@ -22,7 +22,6 @@
 - [Parallel Discord](https://t.co/Ev6c7lI9U4)
 - [Parallel Twitter](https://twitter.com/ParallelFi)
 - [Parallel LinkedIn](https://www.linkedin.com/company/parallel-finance)
-- [Parallel Reddit](https://www.reddit.com/r/ParallelHQ/)
 - [Parallel Telegram channel](https://t.me/parallelfi_community)
 - [Parallel Telegram announcements channel](https://t.me/parallelfi)
 - [Parallel Github](https://github.com/parallel-finance)
