@@ -48,4 +48,4 @@
 
 
 ------
-###### This is not official Parallel hub / created by rskl#1210 (member of Synclab.team) / im not a part of Parallel team
+###### This is not official Overlay hub / created by rskl#1210 (member of [Synclab.team](https://synclab.team/) / im not a part of Overlay team
